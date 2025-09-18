@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int myArray[] = {6,8,9,1,8,6,9,7,1};
+    int size = sizeof(myArray)/sizeof(int);
+    int xoroutput = myArray[0];
+    for(int i=1;i<size;i++)
+    {
+        xoroutput = xoroutput ^ myArray[i];
+    }
+    cout<<xoroutput<<endl;
+}
