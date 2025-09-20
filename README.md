@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/d-manas28/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/d-manas28/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+## Greedy
+|  |
+| ------- |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/d-manas28/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
