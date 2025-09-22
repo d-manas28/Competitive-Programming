@@ -21,6 +21,7 @@ public:
             }
         }
         int k=j+1;
+        sort(nums.begin(),nums.begin()+k);
         return k;
     }
 };
