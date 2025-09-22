@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/d-manas28/Competitive-Programming/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/d-manas28/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/d-manas28/Competitive-Programming/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
