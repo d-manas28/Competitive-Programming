@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unordered_map<int, int> freqCounter;
+        map<int, int> freqCounter;
         int res = 0;
         int n = nums.size();
         for(int i=0;i<n;i++){
@@ -15,7 +15,6 @@ public:
                 nums[i++] = it->first;
             }
         }
-        sort(nums.begin(),nums.begin()+i);
         return i;
     }
 };
