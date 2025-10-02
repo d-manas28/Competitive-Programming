@@ -9,15 +9,12 @@ public:
         for(;i<n-k;i++){
             temp.push_back(nums[i]);
         }
-        for(auto itr:temp)cout<<itr<<", ";
         int j=0;
         for(;i<n;i++){
             nums[j++] = nums[i];
         }cout<<endl;
-        for(auto itr:nums)cout<<itr<<": ";
         for(int l=0;l<temp.size();l++){
             nums[j++] = temp[l];
         }cout<<endl;
-        for(auto itr:nums)cout<<itr<<"- ";
     }
 };
