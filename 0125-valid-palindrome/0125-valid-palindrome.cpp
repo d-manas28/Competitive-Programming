@@ -25,7 +25,9 @@ public:
         return true;
     }
     bool isPalindrome(string s) {
-        
+        cin.tie(NULL);
+        cout.tie(NULL);
+        ios_base::sync_with_stdio(false);
         string res = convertToFormat(s);
         return isPalindrom(res);
     }
