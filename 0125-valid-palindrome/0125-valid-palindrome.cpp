@@ -27,7 +27,6 @@ public:
     bool isPalindrome(string s) {
         
         string res = convertToFormat(s);
-        cout<<res;
         return isPalindrom(res);
     }
 };
