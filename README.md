@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/d-manas28/Competitive-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/d-manas28/Competitive-Programming/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/d-manas28/Competitive-Programming/tree/master/0322-coin-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/d-manas28/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-manas28/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/d-manas28/Competitive-Programming/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/d-manas28/Competitive-Programming/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/d-manas28/Competitive-Programming/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/d-manas28/Competitive-Programming/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
