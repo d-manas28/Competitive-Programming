@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/d-manas28/Competitive-Programming/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/d-manas28/Competitive-Programming/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/d-manas28/Competitive-Programming/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/d-manas28/Competitive-Programming/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/d-manas28/Competitive-Programming/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
