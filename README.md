@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/d-manas28/Competitive-Programming/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/d-manas28/Competitive-Programming/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/d-manas28/Competitive-Programming/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0052-n-queens-ii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/d-manas28/Competitive-Programming/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/d-manas28/Competitive-Programming/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/d-manas28/Competitive-Programming/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
