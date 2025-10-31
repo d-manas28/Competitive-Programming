@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/d-manas28/Competitive-Programming/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/d-manas28/Competitive-Programming/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/d-manas28/Competitive-Programming/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/d-manas28/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-manas28/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/d-manas28/Competitive-Programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/d-manas28/Competitive-Programming/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/d-manas28/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/d-manas28/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/d-manas28/Competitive-Programming/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/d-manas28/Competitive-Programming/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
